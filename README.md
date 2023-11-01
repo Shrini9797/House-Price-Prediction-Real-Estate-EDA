@@ -20,7 +20,7 @@ Welcome to the House Price Prediction & Real Estate Exploratory Data Analysis (E
 Real estate is a significant and ever-evolving industry. Accurate predictions of house prices are crucial for buyers, sellers, and investors. In this project, we focus on analyzing the "Price.csv" dataset, which contains essential information about various properties, in order to understand the factors that influence house prices. We will also prepare the data for further modeling and prediction tasks.
 
 ## Dataset
-
+dataset link : https://www.kaggle.com/datasets/shree1992/housedata
 The dataset we'll be working with, "Price.csv," is a real-world dataset containing various features related to properties, including location, size, number of bedrooms, bathrooms, and more. Our objective is to explore this dataset, identify patterns, and preprocess the data to make it suitable for building predictive models.
 
 ## Exploratory Data Analysis (EDA)
